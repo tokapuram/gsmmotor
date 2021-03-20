@@ -14,7 +14,7 @@ you send an sms "On" from your registred mobile number it will on and send sms "
 <p >3. gsm 800l</p><br><br>
 <img  width="300" src="images/1-channel-relay-module-800x800.jpg">
 <p >4. relay</p><br><br>
-<img  width="300" src="images/5v-1a-dc-power-adapter-400x400.jpg">
+<img  width="300" src="images/12v-1a-dc-power-adapter-india-800x800.jpg">
 <p >5. 5v DC adapter</p><br><br>
 <img  width="300" src="images/electrolytic-capacitor-india-800x800.jpg">
 <p >6. capacitor</p><br><br>
